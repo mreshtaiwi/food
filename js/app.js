@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 // // alert('hello');
 // // console.log('this is from js file');
 // /* this is
@@ -145,7 +144,6 @@ for (var i = 1; i <= mealsNumber; i++) {
 //   console.log('i inside the loop ',i);
 // }
 // // console.log('i outside the loop ',i)
-=======
 // alert('hello');
 // console.log('this is from js file');
 /* this is
@@ -250,4 +248,4 @@ if(foodType =='mansaf')
   var image2 = '<img src="img/shawarmah.jpg" alt= "shawarmah"/>';
   document.write(image2);
 }
->>>>>>> 146d427fdd5ec7462816d31b452a65b01a9fa2d4
+
