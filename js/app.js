@@ -144,6 +144,7 @@
 // //   console.log('i inside the loop ',i);
 // // }
 // // // console.log('i outside the loop ',i)
+
 // // alert('hello');
 // // console.log('this is from js file');
 // /* this is
@@ -257,7 +258,13 @@
 // while(ask1 !== 'yes'){
 //   ask1 = prompt('do you like javascript?');
 // }
+
 // response();
+
+// // console.log('i outside the loop ',i)
+// alert('hello');
+// console.log('this is from js file');
+/* this is
 
 
 // var ask2 = prompt('do you like python?');
@@ -314,4 +321,7 @@ function extra(){
   var extraGrades = 5 + sum(5,8);
   console.log(extraGrades);
 }
+
 extra();
+
+*/
